@@ -7,7 +7,7 @@ using System.Linq;
 
 namespace RazorPagesEmbroidery.Models
 {
-    public static class SeedData
+    public static class SeedData_Embroidery
     {
         public static void Initialize(IServiceProvider serviceProvider)
         {
