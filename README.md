@@ -9,6 +9,7 @@ Add  the Embroidery class for follow up tutorial
 
 
 Add NuGet packages and EF tools:
+
 dotnet tool install --global dotnet-ef --version 5.*
 dotnet tool install --global dotnet-aspnet-codegenerator --version 5.*
 dotnet add package Microsoft.EntityFrameworkCore.Design --version 5.*
